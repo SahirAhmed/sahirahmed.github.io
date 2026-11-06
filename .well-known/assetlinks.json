@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aistudio.contextpulse.rkzpvq",
+      "sha256_cert_fingerprints": [
+        "EE:48:4E:90:48:1F:B6:D6:91:13:96:88:0F:CC:F4:DF:4C:90:BA:C3:C8:D0:9E:02:52:AB:BA:C4:BE:09:76:B5"
+      ]
+    }
+  }
+]
